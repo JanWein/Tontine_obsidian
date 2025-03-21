@@ -1,0 +1,2 @@
+Eine Self-Serve-Plattform stellt den technischen Unterbau bereit, der es Domänenteams ermöglicht, ihre Datenprodukte eigenständig zu entwickeln, bereitzustellen und zu betreiben – ohne dass sie ständig auf zentrale IT-Dienste angewiesen sind. Diese Plattform bietet automatisierte Infrastruktur, Standardisierung von APIs, Sicherheitsmechanismen und Monitoring, sodass sich die Teams auf ihre fachliche Arbeit konzentrieren können.
+Die Umsetzung erfolgt bei Retire über einen zentralen Datenvirtualisierungslayer mit [[Denodo]]
