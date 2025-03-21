@@ -1,0 +1,1 @@
+Verantwortet die strategische Steuerung, definiert Anforderungen, Budgets
