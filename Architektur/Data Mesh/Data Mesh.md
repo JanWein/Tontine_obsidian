@@ -1,0 +1,1 @@
+Anstatt Daten zentral in einem monolithischen Data Lake oder Data Warehouse zu sammeln, setzt Data Mesh auf die Prinzipien der dezentralen Datenverantwortung, sodass jede Domain ihre eigenen Datenprodukte entwickelt, betreut und zur Verfügung stellt. Dies fördert Agilität, Skalierbarkeit und eine stärkere Ausrichtung an den jeweiligen Geschäftsbedürfnissen.
