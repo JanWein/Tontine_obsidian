@@ -1,0 +1,3 @@
+- Die Cloud Infrastructure (AWS, Kubernetes, IaC) sorgt dafür, dass Retire bei steigender Mitgliederzahl, höheren Transaktionsvolumina und wachsenden Datenmengen sauber skaliert.
+- geringer Vendor Lock in durch IaC
+- FinOps

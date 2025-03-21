@@ -1,0 +1,4 @@
+- Personalentwicklung, Onboarding, Skills. Die Richtigen Kompetenzen (Data Literacy, Data Engineering, Data Culture, Data Competency, aktuarielle Expertise) aufbauen
+- Mindset
+- Metakompetenzen in Rollen verankern
+- People is key!!

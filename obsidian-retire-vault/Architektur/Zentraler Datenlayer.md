@@ -1,0 +1,1 @@
+[](Data%20Catalog.md)Operationalisierung mit [[Denodo]]

@@ -1,0 +1,1 @@
+[](Central%20Data%20Platform.md)[](Federated%20Computational%20Governance.md)Data-Governance-Rollen machen zentrale Vorgaben und setzen unternehmensweite Standards und Leitplanken für die niederschwellige Durchsetzung per Design der Data-Mesh-Prinzipien (Data Governenance per Design / [[Federated Computational Governance]] ) durch die Fachdomains 

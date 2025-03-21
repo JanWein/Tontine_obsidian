@@ -1,0 +1,127 @@
+{
+  "edges": [
+    {
+      "fromNode": "c1f3d9e3fc14bb2a",
+      "fromSide": "bottom",
+      "id": "516b0b86f936b0ac",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "25726e346d53eae5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c1f3d9e3fc14bb2a",
+      "fromSide": "bottom",
+      "id": "4f5dd19518d598bb",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "2fea113fbba0ea82",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c1f3d9e3fc14bb2a",
+      "fromSide": "bottom",
+      "id": "dc655bea045f16ad",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "da1fd8a74f8afc98",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c1f3d9e3fc14bb2a",
+      "fromSide": "bottom",
+      "id": "35263a67c01fe2c4",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "b40317ca16d98de2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c1f3d9e3fc14bb2a",
+      "fromSide": "bottom",
+      "id": "36859c9081d8dcc9",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "d0772f176afaa4bf",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "2fea113fbba0ea82",
+      "styleAttributes": {
+      },
+      "text": "# CFO",
+      "type": "text",
+      "width": 260,
+      "x": -260,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "c1f3d9e3fc14bb2a",
+      "styleAttributes": {
+      },
+      "text": "# CEO",
+      "type": "text",
+      "width": 260,
+      "x": -560,
+      "y": -360
+    },
+    {
+      "height": 60,
+      "id": "25726e346d53eae5",
+      "styleAttributes": {
+      },
+      "text": "# CDO",
+      "type": "text",
+      "width": 260,
+      "x": -860,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "da1fd8a74f8afc98",
+      "styleAttributes": {
+      },
+      "text": "# CTO",
+      "type": "text",
+      "width": 260,
+      "x": 80,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "b40317ca16d98de2",
+      "styleAttributes": {
+      },
+      "text": "# Legal",
+      "type": "text",
+      "width": 260,
+      "x": -390,
+      "y": 0
+    },
+    {
+      "height": 60,
+      "id": "d0772f176afaa4bf",
+      "styleAttributes": {
+      },
+      "text": "# People",
+      "type": "text",
+      "width": 260,
+      "x": -680,
+      "y": 0
+    }
+  ]
+}

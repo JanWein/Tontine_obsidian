@@ -1,0 +1,3 @@
+- In einem klassischen Data-Mesh-Ansatz entwickeln Fachdomänen (z.B. „Investment & Portfolio“, „Kundenmanagement“, „Tontinen-Rechenkern“) jeweils ihre eigenen Datenprodukte.
+- Jedes Domainteam stellt „Data Products“ bereit, die in der Self-Service-Plattform konsumiert oder von anderen Teams weiterverarbeitet werden.
+- Data Contracts werden definiert
