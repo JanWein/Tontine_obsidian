@@ -1,0 +1,4 @@
+- Metadata Mgt
+- Masterdata Mgt
+- Open Source Lösungen:
+	- 
