@@ -1,0 +1,2 @@
+- Kann als (micro)services in den Operational Systems liegen, die die Logik für Austrittsabschläge, Todesfall-Umverteilung und Longevity Credits enthalten.
+- Über APIs werden die Ergebnisse in den Data Lake persistiert und über die Self-Service-Plattform governancekonform (intern & extern) zugänglich gemacht
