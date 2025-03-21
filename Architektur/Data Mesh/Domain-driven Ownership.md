@@ -1,0 +1,4 @@
+Dieses Prinzip überträgt die Verantwortung für Daten auf die Fachbereiche, in denen sie entstehen oder genutzt werden. Statt dass ein zentrales Datenteam alle Daten verwaltet, besitzen und steuern die einzelnen Domänen (z. B. Marketing, Finanzen, IT) ihre eigenen Datenprodukte. Dabei sind sie für Qualität, Aktualität und den Kontext ihrer Daten verantwortlich.
+
+- Die Fachdomänen (z.B. Tontinen-Rechenkern, Investment, Frontend) sind selbst verantwortlich für ihre Datenprodukte (Qualität, Aktualität, Dokumentation). Dies wird konkret in [[Data Contracts]] geregelt
+- Das Zentrale Data Platform Team stellt die Plattform, Governance und Infrastruktur bereit.
